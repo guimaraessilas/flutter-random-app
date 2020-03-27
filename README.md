@@ -1,6 +1,6 @@
-# hello_world
+# flutter-random-app
 
-A new Flutter project.
+Just a sandbox to discover what flutter can do
 
 ## Getting Started
 
