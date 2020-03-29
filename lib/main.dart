@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:sandbox/screens/home.dart';
 import 'package:sandbox/screens/login.dart';
 
-void main() => runApp(Home());
+void main() => runApp(Login());
 
 class Login extends StatelessWidget {
   @override

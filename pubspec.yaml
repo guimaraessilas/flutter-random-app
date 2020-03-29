@@ -14,7 +14,7 @@ description: A Flutter sandbox project for studies.
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: ">=2.6.0 <3.0.0"
 
 dependencies:
   email_validator: "^1.0.0"

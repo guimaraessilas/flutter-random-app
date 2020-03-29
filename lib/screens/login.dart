@@ -87,22 +87,22 @@ class _LoginState extends State<LoginScreen> {
     return new Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: <Widget>[
-          Text(
-            'LOGIN',
-            textAlign: TextAlign.center,
-            overflow: TextOverflow.ellipsis,
-            style: TextStyle(
-              fontWeight: FontWeight.bold,
-              color: Colors.white,
-              fontSize: 70,
-            ),
-          ),
           Container(
-              color: Colors.black45,
+              color: Colors.black54,
               child: Padding(
                   padding: EdgeInsets.fromLTRB(20.0, 20.0, 20.0, 70.0),
                   child: Column(
                     children: <Widget>[
+                      Text(
+                        'Movie Time',
+                        textAlign: TextAlign.center,
+                        overflow: TextOverflow.ellipsis,
+                        style: TextStyle(
+                          fontWeight: FontWeight.bold,
+                          color: Colors.white,
+                          fontSize: 70,
+                        ),
+                      ),
                       Padding(
                         padding: EdgeInsets.only(left: 8),
                         child: Align(
